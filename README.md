@@ -1,4 +1,4 @@
-![image](https://github.com/snehagillella/SoftwareTestingProject-Manual/assets/105377141/ec90dc8b-0345-49bb-acd4-09b6c99be0f0)SoftwareTestingProjects-Manual-
+
 
 Project #1 - Testcase and Test Plan for OpenCart opensource project for Login and Registration page.
 
